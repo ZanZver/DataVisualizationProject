@@ -49,7 +49,7 @@ library(wordcloud)
 theme_set(theme_bw()) 
 
 #define data path
-maindata<- read.csv(file.path("/Users/zanzver/Desktop/DataVIs/NYPD_Arrests_Data__Historic_-2.csv"))
+maindata<- read.csv(file.path("~/NYPD_Arrests_Data__Historic_-2.csv"))
 
 
 #main server function
@@ -413,13 +413,3 @@ server <- function(input, output){
   })
   
 }
-
-
-
-
-
-
-
-
-
-
