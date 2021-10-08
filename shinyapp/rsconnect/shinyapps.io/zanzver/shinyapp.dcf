@@ -1,0 +1,12 @@
+name: shinyapp
+title: shinyapp
+username:
+account: zanzver
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2329914
+bundleId: 3170148
+url: https://zanzver.shinyapps.io/shinyapp/
+when: 1589975839.07147
+asMultiple: FALSE
+asStatic: FALSE

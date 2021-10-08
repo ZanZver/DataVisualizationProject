@@ -1,0 +1,5 @@
+Note:
+1) LaTeX code is in tex.tex
+2) LaTeX pdf is named as tex.pdf
+3) In the folder shinyapp there is server.R and ui.R
+4) In the folder map, there is map.R which I used to generate maps that are provided
